@@ -1,1 +1,3 @@
-tree = 1
+tree = 1;
+bob = 2;
+sam =  bob + tree;
